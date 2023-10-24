@@ -237,5 +237,9 @@ font-weight: 400;
 line-height: 16px;
 }
 
+.section3_download:hover{
+    color: #b2a545;
+    
+}
 
 </style>

@@ -10,6 +10,9 @@
     <Section6 />
     <Section7 />
     <Section8 />
+    <Section9 />
+    <Section10 />
+    <Section11 />
   </main>
 
   <Footer />
@@ -26,6 +29,9 @@ import Section5 from '@/components/Section5.vue';
 import Section6 from '@/components/Section6.vue';
 import Section7 from '@/components/Section7.vue';
 import Section8 from '@/components/Section8.vue';
+import Section9 from '@/components/Section9.vue';
+import Section10 from '@/components/Section10.vue';
+import Section11 from '@/components/Section11.vue';
 
 export default {
   components: {
@@ -39,6 +45,9 @@ export default {
     Section6,
     Section7,
     Section8,
+    Section9,
+    Section10,
+    Section11,
   
   },
 };
